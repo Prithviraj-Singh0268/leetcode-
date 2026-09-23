@@ -22,6 +22,7 @@ The table below is generated automatically — see How the auto-update works.
 <!-- PROBLEMS-TABLE:START -->
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1859 | Sorting the Sentence | 🟢 Easy | [Solution](./1859-sorting-the-sentence) |
 | 4010 | Maximize Pair Strength Using GCD | 🟢 Easy | [Solution](./4010-maximize-pair-strength-using-gcd) |
 <!-- PROBLEMS-TABLE:END -->
 ⚙️ How the auto-update works
