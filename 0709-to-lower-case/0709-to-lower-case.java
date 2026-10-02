@@ -6,9 +6,9 @@ class Solution {
             if(c >= 'A' && c <= 'Z'){
                 char ch = Character.toLowerCase(c);
                 sb.append(ch);
-            }else{
-                sb.append(c);
+                continue;
             }
+            sb.append(c);
         }
         return sb.toString();
     }
