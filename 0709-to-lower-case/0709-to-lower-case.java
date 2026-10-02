@@ -4,8 +4,9 @@ class Solution {
         for(int i = 0; i < s.length(); i++){
             char c = s.charAt(i);
             if(c >= 'A' && c <= 'Z'){
-                char ch = Character.toLowerCase(c);
-                sb.append(ch);
+                int ch = c + 32;
+                char ch2 = (char) ch;
+                sb.append(ch2);
                 continue;
             }
             sb.append(c);
