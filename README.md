@@ -28,6 +28,7 @@ The table below is generated automatically — see How the auto-update works.
 | 1662 | Check If Two String Arrays are Equivalent | 🟢 Easy | [Solution](./1662-check-if-two-string-arrays-are-equivalent) |
 | 1859 | Sorting the Sentence | 🟢 Easy | [Solution](./1859-sorting-the-sentence) |
 | 4010 | Maximize Pair Strength Using GCD | 🟢 Easy | [Solution](./4010-maximize-pair-strength-using-gcd) |
+| 4092 | Binary Digit Score | 🟢 Easy | [Solution](./4092-binary-digit-score) |
 <!-- PROBLEMS-TABLE:END -->
 ⚙️ How the auto-update works
 
